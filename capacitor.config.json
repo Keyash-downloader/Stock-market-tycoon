@@ -1,0 +1,6 @@
+{
+  "appId": "com.keyash.stockmarkettycoon",
+  "appName": "Stock Market Tycoon",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

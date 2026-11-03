@@ -1,0 +1,9 @@
+{
+  "name": "Stock Market Tycoon",
+  "short_name": "Stock Tycoon",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#09090d",
+  "theme_color": "#09090d",
+  "icons": []
+}
